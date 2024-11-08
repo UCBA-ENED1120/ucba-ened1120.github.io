@@ -1,0 +1,13 @@
+.sidebar a:hover,
+.sidebar a:focus,
+.sidebar a:active {
+    color: white;
+}
+
+.sidebar {
+    height: 100vh;
+}
+
+.sidebar a {
+    color: white;
+}
