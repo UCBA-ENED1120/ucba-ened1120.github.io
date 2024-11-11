@@ -22,3 +22,12 @@ body {
     height: 100%;
     overflow: auto;
 }
+
+main {
+    background-color: #b50000;
+}
+
+.header,
+.main-content {
+    background-color: white;
+}
